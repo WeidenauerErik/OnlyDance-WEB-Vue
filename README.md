@@ -1,5 +1,5 @@
 # OnlyDance WEB
-This is OnlyDance Web where you can learn your dances on the browser.
+This is OnlyDance Web where you can learn your dances in the browser.
 
 ## Project Setup
 
